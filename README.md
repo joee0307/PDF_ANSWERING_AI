@@ -57,7 +57,8 @@ This project is a Streamlit-based application that allows users to chat with mul
 
 
 4. Upload your PDF files using the sidebar, click "Process", and wait for processing to complete.
-   ![Screenshot 2024-06-19 155103](https://github.com/joee0307/PDF_ANSWERING_AI/assets/98938557/5f9f4ce0-2835-4bcb-9e04-5d79bb958b53)
+
+![341299659-5f9f4ce0-2835-4bcb-9e04-5d79bb958b53](https://github.com/user-attachments/assets/272ac586-83b9-4611-9ee2-bc30c3382493)
 
 
 6. Ask questions about the uploaded documents in the main chat interface.
