@@ -52,7 +52,7 @@ This project is a Streamlit-based application that allows users to chat with mul
     ```
 
 2. Open your web browser
-![341300043-768dd58e-24aa-48eb-aee1-370111fcf5b5](https://github.com/user-attachments/assets/b241937f-97bf-43a9-9775-6a724d4a6705)
+![341299528-1554eb86-a0c0-4257-ab7b-0a19305c76ab](https://github.com/user-attachments/assets/5661f7fd-f1b5-4fce-8bec-dea9f40db2bf)
 
 
 
