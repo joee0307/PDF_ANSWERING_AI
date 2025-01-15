@@ -4,7 +4,8 @@ Please Follow instruction.txt for make model to work.
 
 This project is a Streamlit-based application that allows users to chat with multiple PDF documents. It uses FAISS for efficient document retrieval and a T5 model for generating responses. The PDF documents are processed, and the text is split into manageable chunks, vectorized, and stored in a FAISS index. Users can then ask questions, and the system retrieves relevant document sections to generate responses.
 
--![Screenshot 2024-06-10 233925](https://github.com/joee0307/PDF_ANSWERING_AI/assets/98938557/768dd58e-24aa-48eb-aee1-370111fcf5b5)
+![341300043-768dd58e-24aa-48eb-aee1-370111fcf5b5](https://github.com/user-attachments/assets/b241937f-97bf-43a9-9775-6a724d4a6705)
+
 
 ## Features
 
